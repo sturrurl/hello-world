@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-First Try at create a github repository
+Richard Sturrus
+New to git-hub
+will be saving this editted verion of the readme file
